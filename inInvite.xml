@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mailbox-item>
+  <recipients>
+    <recipient>
+      <person path="/people/email=nehataneja2306@gmail.com">
+        <first-name>Neha</first-name>
+        <last-name>Taneja</last-name>
+      </person>
+    </recipient>
+  </recipients>
+  <subject>Invitation to Connect</subject>
+  <body>Please join my professional network on LinkedIn.</body>
+  <item-content>
+    <invitation-request>
+      <connect-type>friend</connect-type>
+    </invitation-request>
+  </item-content>
+</mailbox-item>

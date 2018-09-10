@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Neha Taneja
+EMAIL;type=INTERNET;type=WORK;type=pref:ntanej3@illinois.edu
+TITLE:STUDENT
+
+ADR;TYPE=work:;;University of Illinois at Urbana Champaign;
+END:VCARD
